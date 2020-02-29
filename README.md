@@ -17,3 +17,6 @@ Daslkhjasdlkhdaslkj
 
 ## COpyright
 COpyright notice
+
+## HOw to contribute
+bla bla bla
